@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-perilpulse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PerilPulse MCP — per-property multi-peril risk scores (perilpulse.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8cb4b2f9235345aae1bd24630cfebebd2f41800c9db07de8512bb7425f36bdac",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-a1a1e417c9bdc32a6c87531d64b163d1b7e5362c550ab4e287fdd4afd872fa96",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
